@@ -1,0 +1,13 @@
+.square {
+    height: 100px;
+    width: 200px;
+    margin-right: 4px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: purple;
+    cursor: pointer;
+}
+
+.spanText {
+    margin-bottom: 4px;
+}
